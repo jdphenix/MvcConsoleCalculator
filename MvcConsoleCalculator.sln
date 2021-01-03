@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcConsoleCalculator", "MvcConsoleCalculator\MvcConsoleCalculator.csproj", "{BA5F3E03-BAE6-4B11-B9D7-FDCA152ECD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5F3E03-BAE6-4B11-B9D7-FDCA152ECD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5F3E03-BAE6-4B11-B9D7-FDCA152ECD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5F3E03-BAE6-4B11-B9D7-FDCA152ECD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5F3E03-BAE6-4B11-B9D7-FDCA152ECD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
